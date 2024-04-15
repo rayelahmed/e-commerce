@@ -1,0 +1,19 @@
+.bg-danger {
+  height: 1px;
+  width: 50px;
+}
+
+.d-flex {
+  display: center;
+  align-items: center;
+  justify-content: center;
+}
+
+#btn-dark {
+  color: white;
+  background-color: black;
+}
+#btn-dark:hover {
+  color: white;
+  background-color: black;
+}

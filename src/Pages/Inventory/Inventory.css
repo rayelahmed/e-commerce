@@ -1,0 +1,38 @@
+.container {
+  margin-top: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.manage-inv {
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+.container #button-nav-link {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  font-size: 1.2rem;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  background-color: black;
+  border: none;
+  border-radius: 2rem;
+  cursor: pointer;
+}
+
+#button-nav-link:hover {
+  background-color: #a8ca01;
+}
+
+.update-btn {
+  background-color: red;
+  font-size: 15px;
+  height: 35px;
+}
+
+.table-data img {
+  height: 50px;
+  width: 50px;
+}

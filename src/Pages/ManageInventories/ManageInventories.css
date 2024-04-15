@@ -1,0 +1,46 @@
+.manage-inventories {
+  margin-top: 10px;
+}
+
+table {
+  border: 1rem hidden #443c68;
+  border-collapse: collapse;
+  box-shadow: 0 0 0 1px black;
+  overflow: hidden;
+  max-width: 80rem;
+}
+
+li,
+a,
+td {
+  font-size: 15px;
+  line-height: 1;
+}
+
+thead {
+  font-size: 20px;
+  background-color: black;
+  color: #fff;
+}
+thead:hover {
+  font-size: 20px;
+  background-color: #a8ca01;
+  color: #fff;
+}
+
+th,
+td {
+  border: 1px solid #443c68;
+  min-width: 30px;
+  padding: 10px;
+  line-height: 1;
+}
+
+td {
+  font-size: 1.4rem;
+}
+
+#btn {
+  color: white;
+  background-color: black;
+}

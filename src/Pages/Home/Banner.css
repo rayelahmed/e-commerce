@@ -1,0 +1,45 @@
+.carousel-banner img {
+  height: 640px;
+  width: 100%;
+}
+
+.carousel-caption {
+  display: flex;
+  align-items: start;
+  justify-content: start;
+  position: absolute;
+  top: 30%;
+  left: 15% !important;
+  text-align: left;
+}
+
+.caption {
+  text-align: start;
+}
+
+.caption h5 {
+  font-size: 24px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+}
+.caption h3 {
+  padding-top: 35px;
+  font-size: 58px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+.caption p {
+  padding-top: 35px;
+  font-size: 20px;
+  font-family: "Montserrat", sans-serif;
+  color: #fafafa;
+}
+
+.caption button {
+  font-size: 24px;
+  padding: 15px 40px;
+  border-radius: 0 !important;
+}

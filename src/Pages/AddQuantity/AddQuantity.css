@@ -1,0 +1,20 @@
+.add-quantity {
+  margin-top: 70px;
+  margin-left: 25%;
+  margin-right: 25%;
+  background-color: whitesmoke;
+}
+
+.submit-btn {
+  color: white;
+  padding: 5px;
+  border: #a8ca01;
+  background-color: black;
+  border-radius: 5px;
+}
+
+.submit-btn:hover {
+  background-color: #a8ca01;
+  border: #a8ca01;
+  border-radius: 5px;
+}

@@ -1,0 +1,32 @@
+.editors-pick {
+  margin-top: 80px;
+}
+.editors-pick Button {
+  border-radius: 0px !important;
+}
+.men {
+  display: inline;
+}
+
+.picks-pro {
+  margin-top: 48px;
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+}
+
+.men Button {
+  padding: 5px 30px;
+  margin-left: -10rem;
+  margin-top: -10rem;
+}
+.women Button,
+.kids Button,
+.accessories Button {
+  padding: 5px 30px;
+  margin-top: -10rem;
+}
+
+.kids {
+  margin-top: -6px;
+}
